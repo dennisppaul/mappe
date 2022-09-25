@@ -4,16 +4,16 @@
 
 @import url(https://fonts.googleapis.com/css?family=Roboto%20Mono);
 
-$base-font-family: 'Roboto Mono', 'Courier New', monospace !default;
+$base-font-family: 'Roboto Mono', monospace !default;
 $base-font-size:   11px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 1.0 !default;
-$base-line-height: 1.5 !default;
+$base-line-height: 1.36363636 !default;
 
-$spacing-unit:     25px !default;
+$spacing-unit:     15px !default;
 
-$text-color:       #111 !default;
-$background-color: #f8f8f8 !default;
+$text-color:       #000 !default;
+$background-color: #FFF !default;
 $brand-color:      #000 !default;
 
 $grey-color:       #828282 !default;
