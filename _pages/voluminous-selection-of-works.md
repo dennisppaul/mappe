@@ -8,5 +8,6 @@ permalink: /voluminous-selection-of-works/
 {%- for post in site.posts -%}
 ## [{{ post.title | escape }}]({{ post.url | relative_url }}) ({{ post.date | date: "%Y" }})
 {{ post.excerpt | strip_newlines }}
+<br/>
 {%- endfor -%}
 {%- endif -%}
