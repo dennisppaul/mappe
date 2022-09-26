@@ -73,7 +73,11 @@ Obviously this project plays with illegality and raises one or two question abou
 
 ---
 
-*‌One fine afternoon Linus and Linda agreed to leave a few comments in Berlin Kreuzberg*
+<div class="video-container"><iframe src="https://www.youtube.com/embed/K1WN1KPNAfA" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+*‌One fine afternoon Linus and Linda agreed to leave a few comments in Berlin Kreuzberg* …
 
 ![](/assets/2010-03-17-Leave-A-Comment-Toolkit/lact-linda-and-linus-session-00.jpg)
 
