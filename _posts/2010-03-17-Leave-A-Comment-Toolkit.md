@@ -3,6 +3,7 @@ layout: post
 title:  "Leave-A-Comment-Toolkit"
 date:   2010-03-17 00:00:00 +0100
 featured: No
+permalink: leave-a-comment-toolkit
 ---
 
 ![](/assets/2010-03-17-Leave-A-Comment-Toolkit/lact-photo-title.jpg)

@@ -3,6 +3,7 @@ layout: post
 title:  "NMI-002 An Instrument for the Sonification of Everyday Things"
 date:   2012-06-23 00:00:00 +0100
 featured: Yes
+permalink: an-instrument-for-the-sonification-of-everyday-things
 ---
 
 ![NMI-002-V4](/assets/2012-06-23-NMI-002-V4.jpg)

@@ -3,6 +3,7 @@ layout: post
 title:  "Infrastructure"
 date:   2020-11-11 00:00:00 +0100
 featured: Yes
+permalink: infrastructure
 ---
 
 ![Infrastructure](/assets/2020-11-11-infrastructure.png)

@@ -3,6 +3,7 @@ layout: post
 title:  "Die Quelle"
 date:   2009-01-01 00:00:00 +0100
 featured: No
+permalink: die-quelle
 ---
 
 ![](/assets/2009-01-01-Die_Quelle/die-quelle-01.jpg)

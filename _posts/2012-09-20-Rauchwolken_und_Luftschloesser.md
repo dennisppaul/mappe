@@ -3,6 +3,7 @@ layout: post
 title:  "Rauchwolken und Luftschlösser"
 date:   2012-09-20 00:00:00 +0100
 featured: No
+permalink: rauchwolken-und-luftschlosser
 ---
 
 ![](/assets/2012-09-20-Rauchwolken_und_Luftschloesser/RuL-poster-001.jpg)

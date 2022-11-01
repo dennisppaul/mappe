@@ -3,6 +3,7 @@ layout: post
 title:  "Die Pendel"
 date:   2010-01-01 00:00:00 +0100
 featured: No
+permalink: die-pendel
 ---
 
 ![](/assets/2010-01-01-Die_Pendel/die-pendel-01.jpg)

@@ -1,7 +1,10 @@
 ## Selected Exhibitions + Projects + Publications
 
-|             | /\* \-\-\- \*/   |
+| - | - |
 | ----------- | ----------- |
+| 2022        | **[Klangstrom](http://dennisppaul.de/klangstrom)** infrastructure to facilitate generative, networked, embedded sound + music + composition |
+| 2021        | **[Wellen](http://dennisppaul.de/wellen)** framework for exploring and teaching generative music making and algorithmic compositions |
+| 2021        | **[Teilchen](http://dennisppaul.de/teilchen)** physics library based on particles, forces, constraints and behaviors |
 | 2018        | **[An Instrument for the Sonification of Everyday Things](http://dennisppaul.de/an-instrument-for-the-sonification-of-everyday-things)** |
 |             | Exhibition, *[[LAUT] DIE WELT HÖREN](https://www.humboldtforum.com/de/ausstellungen/laut-die-welt-hoeren)* at Humboldt-Box, Berlin, Germany | 
 | 2017 –      | **[Salon Digital – Spektakel: Reenactments in Kunst, Gestaltung, Wissenschaft und Technologie](https://salon-digital.com/)** |
@@ -69,11 +72,11 @@
 |             | Exhibition, *National Museum of Art*, Taichung, Taiwan|
 |             | Exhibition, *Jüdisches Museum Berlin* |
 | 2003        | **[Segelanweisung](http://www.artcom.de/projekte/projekt/detail/die-segelanweisung)** |
-|             | Permanent Exhibition, *Deutsches Technikmuseum Berlin* |
+|             | Permanent Exhibition, *Deutsches Technikmuseum Berlin* |
 
 ## Selected Awards
 
-|             | /\* \-\-\- \*/   |
+| - | - |
 | ----------- | ----------- |
 | 2011        | **[Sol](http://dennisppaul.de/sol)** |
 |             | Annual Multimedia Award Gold |
@@ -111,11 +114,11 @@
 | 2002        | **Coexistence** |
 |             | Winner *Coexistence* Award |
 | 2001        | **ME2** |
-|             | Shortlist *Browserday*, Berlin |
+|             | Shortlist *Browserday*, Berlin |
 
 ## Talks
 
-|             | /\* \-\-\- \*/   |
+| - | - |
 | ----------- | ----------- |
 | 2014        | **Interaktion + Raum** |
 |             | at [Resonate 2014](http://resonate.io/2014/), Belgrade, Serbia |
@@ -141,11 +144,11 @@
 |             | **Playfulness in Interactive Media** |
 |             | at [Achtung Berlin Festival](http://achtungberlin.de), Berlin |
 | 2005        | **Applied Computational Design** |
-|             | at [Generator X Conference](http://www.generatorx.no/generatorx-conference), Oslo, Norway |
+|             | at [Generator X Conference](http://www.generatorx.no/generatorx-conference), Oslo, Norway |
 
 ## Workshops + Teaching
 
-|             | /\* \-\-\- \*/   |
+| - | - |
 | ----------- | ----------- |
 | 2021        | **Introduction to Programming** |
 |             | Visiting Faculty at [Copenhagen Institute of Interaction Design](http://ciid.dk/), Costa Rica |
@@ -178,7 +181,7 @@
 |             | Workshop at [Universität der Künste Berlin](http://www.udk-berlin.de) |
 |             | **Tools for Computational Design** |
 |             | Workshop at *FH Potsdam* |
-|             | &nbsp; |
+|             | &nbsp; |
 | 2010        | Appointed **Professor for [Interaktion und Raum](http://www.hfk-bremen.de/profiles/n/dennis-paul)** in the [Digitale Medien](http://www.digitalemedien-bremen.de) Program <br/> at [Hochschule für Künste Bremen](http://www.hfk-bremen.de) |
 | 2009        | **Lecturer at [Hochschule für Künste Bremen](http://www.hfk-bremen.de)** |
 | 2004 – 2007 | **Lecturer in [Digitale Klasse](http://digital.udk-berlin.de)** at [Universität der Künste Berlin](http://www.udk-berlin.de) |

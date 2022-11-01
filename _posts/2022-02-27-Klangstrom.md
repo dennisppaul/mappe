@@ -3,6 +3,7 @@ layout: post
 title:  "Klangstrom"
 date:   2022-02-27 00:00:00 +0100
 featured: Yes
+permalink: klangstrom
 ---
 
 ![KLST_SHEEP](/assets/2022-02-27-KLST_SHEEP_dpp.jpg)

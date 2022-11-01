@@ -3,6 +3,7 @@ layout: post
 title:  "floating.numbers"
 date:   2004-01-01 00:00:00 +0100
 featured: No
+permalink: floating-numbers
 ---
 
 ![](/assets/2004-01-01-floating_numbers/floating-numbers-01.jpg)

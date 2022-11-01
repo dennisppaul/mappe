@@ -3,6 +3,7 @@ layout: post
 title:  "Nullstecker"
 date:   2013-09-29 00:00:00 +0100
 featured: Yes
+permalink: nullstecker
 ---
 
 ![nullstecker-T](/assets/2013-09-29-nullstecker-T.jpg)

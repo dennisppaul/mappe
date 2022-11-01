@@ -3,6 +3,7 @@ layout: post
 title:  "The Science of Aliens"
 date:   2005-01-01 00:00:00 +0100
 featured: No
+permalink: the-science-of-aliens
 ---
 
 ![](/assets/2005-01-01-The_Science_of_Aliens/the-science-of-aliens-01.jpg)
