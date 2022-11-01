@@ -31,6 +31,7 @@ github_username:  dennisppaul
 theme: minima
 show_excerpts: true
 future: false
+permalink: /:slug:output_ext
 
 plugins:
   - jekyll-feed
