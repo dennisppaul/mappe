@@ -1,4 +1,3 @@
-| - | - |
 |-------------|---------------------------------------------------------------------------------------------------|
 | 2010        | Professor for Interaktion und Raum in the Digitale Medien Program at Hochschule für Künste Bremen |
 | 2008        | Founder of The Product Studio for spatial, media-related Design, Berlin                           |

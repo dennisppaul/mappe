@@ -1,6 +1,5 @@
 ## Selected Exhibitions + Projects + Publications
 
-| - | - |
 | ----------- | ----------- |
 | 2022        | **[Klangstrom](http://dennisppaul.de/klangstrom)** infrastructure to facilitate generative, networked, embedded sound + music + composition |
 | 2021        | **[Wellen](http://dennisppaul.de/wellen)** framework for exploring and teaching generative music making and algorithmic compositions |
@@ -76,7 +75,6 @@
 
 ## Selected Awards
 
-| - | - |
 | ----------- | ----------- |
 | 2011        | **[Sol](http://dennisppaul.de/sol)** |
 |             | Annual Multimedia Award Gold |
@@ -118,7 +116,6 @@
 
 ## Talks
 
-| - | - |
 | ----------- | ----------- |
 | 2014        | **Interaktion + Raum** |
 |             | at [Resonate 2014](http://resonate.io/2014/), Belgrade, Serbia |
@@ -148,7 +145,6 @@
 
 ## Workshops + Teaching
 
-| - | - |
 | ----------- | ----------- |
 | 2021        | **Introduction to Programming** |
 |             | Visiting Faculty at [Copenhagen Institute of Interaction Design](http://ciid.dk/), Costa Rica |
