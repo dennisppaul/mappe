@@ -9,7 +9,7 @@ layout: default
 
     {{ content }}
 
-            <p class="dash-separator">------------------------------------------------------------------------------------------------------------------------</p>
+    <!--<p class="dash-separator">------------------------------------------------------------------------------------------------------------------------</p>-->
 
     {%- if site.posts.size > 0 -%}
         {%- for post in site.posts -%}
@@ -24,11 +24,11 @@ layout: default
 							{{ post.excerpt | strip_newlines }}
 						</a>
 					{%- endif -%}
+					<br/>
 				</div>
 			{%- endif -%}
         {%- endfor -%}
     {%- endif -%}
-    <p class="dash-separator">------------------------------------------------------------------------------------------------------------------------</p>
 
     Find here <a href="voluminous-selection-of-works">A More Voluminous Selection of the Works</a> I have conceived over the years.    
 </div>
