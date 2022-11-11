@@ -1,7 +1,7 @@
 ---
 layout: default
 title: A More Voluminous Selection of the Works
-permalink: /voluminous-selection-of-works/
+permalink: /collection/selected-works/
 ---
 
 {%- if site.posts.size > 0 -%}
