@@ -3,10 +3,7 @@ layout: post
 title:  "NMI-011 A Computer Mouse Instrument"
 date:   2018-11-29 00:00:00 +0100
 featured: Yes
-permalink: a-computer-mouse-instrument
-redirect_from:
-  - /nmi-011
-  - /nmi-011-a-computer-mouse-instrument
+permalink: nmi-011-a-computer-mouse-instrument
 ---
 
 ![NMI-011-front](/assets/2018-11-29-NMI-011-front.jpg)
@@ -22,4 +19,4 @@ Custom Printed Circuit Board + Silkscreen<br />
 
 NMI-011 was released as a small series of 10 devices and was purchasable at *Studio Paul Paul*.
 
-See also [NMI-010 A Computer Keyboard Instrument](https://dennisppaul.de/a-computer-keyboard-instrument).
+See also [NMI-010 A Computer Keyboard Instrument](./nmi-010-a-computer-keyboard-instrument).

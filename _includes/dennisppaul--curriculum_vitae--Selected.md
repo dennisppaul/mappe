@@ -4,18 +4,18 @@
 | 2022        | **[Klangstrom](http://dennisppaul.de/klangstrom)** infrastructure to facilitate generative, networked, embedded sound + music + composition |
 | 2021        | **[Wellen](http://dennisppaul.de/wellen)** framework for exploring and teaching generative music making and algorithmic compositions |
 | 2021        | **[Teilchen](http://dennisppaul.de/teilchen)** physics library based on particles, forces, constraints and behaviors |
-| 2018        | **[An Instrument for the Sonification of Everyday Things](http://dennisppaul.de/an-instrument-for-the-sonification-of-everyday-things)** |
+| 2018        | **[An Instrument for the Sonification of Everyday Things](http://dennisppaul.de/nmi-002-an-instrument-for-the-sonification-of-everyday-things)** |
 |             | Exhibition, *[[LAUT] DIE WELT HÖREN](https://www.humboldtforum.com/de/ausstellungen/laut-die-welt-hoeren)* at Humboldt-Box, Berlin, Germany | 
 | 2017 –      | **[Salon Digital – Spektakel: Reenactments in Kunst, Gestaltung, Wissenschaft und Technologie](https://salon-digital.com/)** |
 |             | Lecture Series, organized by Andrea Sick + Ralf Baecker + Dennis Paul |
-| 2016        | **[An Instrument for the Sonification of Everyday Things](http://dennisppaul.de/an-instrument-for-the-sonification-of-everyday-things)** |
+| 2016        | **[An Instrument for the Sonification of Everyday Things](http://dennisppaul.de/nmi-002-an-instrument-for-the-sonification-of-everyday-things)** |
 |             | Performance, *[Nuit Numerique #13](http://www.saintex-reims.com/2016/03/an-instrument-for-the-sonification-of-everyday-things/)* at Saint-Ex, Reims, France |
 | 2015        | **[Nullstecker](https://dennisppaul.de/nullstecker/)** |
 |             | Exhibition, *[Critical Make](http://www.hek.ch/programm/events/event/critical-make-turning-functionality.html)* at Haus der elektronischen Künste, Basel, Switzerland |
 |             | **[Automatic Orchestra](http://digitalmedia-bremen.de/en/project/automatic-orchestra/)** |
 |             | ( in collaboration with [Jakob Bak](http://sciencefriction.dk/) and students Angelisa Scalera, David Beermann, Hendrik Heuer, Irena Kukric, Julian Hespenheide, Thomas Hoheisel ) |
 |             | Installation, *[Resonate 2015](http://resonate.io/2015/projects/automatic-orchestra/)*, Belgrad, Serbia |
-| 2014        | **[An Instrument for the Sonification of Everyday Things](http://dennisppaul.de/an-instrument-for-the-sonification-of-everyday-things)** |
+| 2014        | **[An Instrument for the Sonification of Everyday Things](http://dennisppaul.de/nmi-002-an-instrument-for-the-sonification-of-everyday-things)** |
 |             | Exhibition, *[KIKK festival 2014](http://www.kikk.be/2014/dennis-p-paul.htm?lng=en)*, Namur, Belgium |
 |             | Exhibition, *[alt_cph 2014](https://web.archive.org/web/20150321012005/https://altcph.dk/)*, Copenhagen, Denmark ( in collaboration with *[Science Friction](http://www.sciencefriction.dk)* ) |
 | 2013        | **[Nullstecker](http://dennisppaul.de/nullstecker)** |
@@ -24,7 +24,7 @@
 |             | Publication, *Rauchwolken und Luftschlösser. Temporäre Räume* published by Andrea Sick + Dennis Paul. Textem Verlag, Hamburg 12.2013, 280 pages, 30 contributions |
 |             | Curratorial Work, [Exhibition](https://gak-bremen.de/ausstellung/13_rauchwolken-und-luftschloesser_de/), [GAK Bremen](http://www.gak-bremen.de) |
 | 2012        | [Symposion](https://web.archive.org/web/20160110000251/http://rauchwolkenundluftschloesser.de/symposium) + [Workshop](https://web.archive.org/web/20160110000251/http://rauchwolkenundluftschloesser.de/workshop), [HfK Bremen](http://www.hfk-bremen.de) |
-|             | **[An Instrument for the Sonification of Everyday Things](http://dennisppaul.de/an-instrument-for-the-sonification-of-everyday-things)** |
+|             | **[An Instrument for the Sonification of Everyday Things](http://dennisppaul.de/nmi-002-an-instrument-for-the-sonification-of-everyday-things)** |
 |             | Lecture Performance, *John Cage - Ein Tag in der Hochschule für Künste Bremen* |
 | 2011        | **[Game Milestones](https://web.archive.org/web/20150812070745/http://www.the-product.org/game-milestones)** |
 |             | Installation, Permanent Exhibition, *Computerspielmuseum*, Berlin |

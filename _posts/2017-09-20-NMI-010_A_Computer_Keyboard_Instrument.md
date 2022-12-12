@@ -3,10 +3,7 @@ layout: post
 title:  "NMI-010 A Computer Keyboard Instrument"
 date:   2017-09-20 00:00:00 +0100
 featured: Yes
-permalink: a-computer-keyboard-instrument
-redirect_from:
-  - /nmi-010
-  - /nmi-010-a-computer-keyboard-instrument
+permalink: nmi-010-a-computer-keyboard-instrument
 ---
 
 ![NMI-010-front](/assets/2017-09-20-NMI-010-front-640×480.jpg)
@@ -26,4 +23,4 @@ Printed Circuit Board + Silkscreen
 
 NMI-010 was released as a small series of 10 devices and was purchasable at *Studio Paul Paul*.
 
-See also [NMI-011 A Computer Mouse Instrument](https://dennisppaul.de/a-computer-mouse-instrument).
+See also [NMI-011 A Computer Mouse Instrument](./nmi-011-a-computer-mouse-instrument).
