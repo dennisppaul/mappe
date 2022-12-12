@@ -3,6 +3,7 @@ layout: post
 title:  "Institut für Mikroelektronische Schaltungen und Systeme"
 date:   2000-01-01 00:00:00 +0100
 featured: No
+permalink: ims
 ---
 
 ![](/assets/2000-01-01-Institut_für_Mikroelektronische_Schaltungen_und_Systeme/ims-01.jpg)

@@ -3,6 +3,7 @@ layout: post
 title:  "Tennisfreunde Berliin e.V."
 date:   2007-04-01 00:00:00 +0100
 featured: No
+permalink: tennisfreunde-berliin
 ---
 
 ![](/assets/2007-04-01-Tennisfreunde_Berliin/ballhaus_small_03.png)

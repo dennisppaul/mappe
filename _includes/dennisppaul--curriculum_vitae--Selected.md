@@ -17,12 +17,12 @@
 |             | Installation, *[Resonate 2015](http://resonate.io/2015/projects/automatic-orchestra/)*, Belgrad, Serbia |
 | 2014        | **[An Instrument for the Sonification of Everyday Things](http://dennisppaul.de/an-instrument-for-the-sonification-of-everyday-things)** |
 |             | Exhibition, *[KIKK festival 2014](http://www.kikk.be/2014/dennis-p-paul.htm?lng=en)*, Namur, Belgium |
-|             | Exhibition, *[alt_cph 2014](http://altcph.dk)*, Copenhagen, Denmark ( in collaboration with *[Science Friction](http://www.sciencefriction.dk)* ) |
+|             | Exhibition, *[alt_cph 2014](https://web.archive.org/web/20150321012005/https://altcph.dk/)*, Copenhagen, Denmark ( in collaboration with *[Science Friction](http://www.sciencefriction.dk)* ) |
 | 2013        | **[Nullstecker](http://dennisppaul.de/nullstecker)** |
 |             | Exhibition, *Art Hack Day Going Dark*, *Lab for Electronic Arts and Performance*, Berlin |
 |             | **[Rauchwolken und Luftschlösser. Temporäre Räume](http://dennisppaul.de/rauchwolken-und-luftschlosser)** |
 |             | Publication, *Rauchwolken und Luftschlösser. Temporäre Räume* published by Andrea Sick + Dennis Paul. Textem Verlag, Hamburg 12.2013, 280 pages, 30 contributions |
-|             | Curratorial Work, [Exhibition](http://www.gak-bremen.de/aktuell/archiv/2013/rauchwolken_und_luftschlOesser1), [GAK Bremen](http://www.gak-bremen.de) |
+|             | Curratorial Work, [Exhibition](https://gak-bremen.de/ausstellung/13_rauchwolken-und-luftschloesser_de/), [GAK Bremen](http://www.gak-bremen.de) |
 | 2012        | [Symposion](https://web.archive.org/web/20160110000251/http://rauchwolkenundluftschloesser.de/symposium) + [Workshop](https://web.archive.org/web/20160110000251/http://rauchwolkenundluftschloesser.de/workshop), [HfK Bremen](http://www.hfk-bremen.de) |
 |             | **[An Instrument for the Sonification of Everyday Things](http://dennisppaul.de/an-instrument-for-the-sonification-of-everyday-things)** |
 |             | Lecture Performance, *John Cage - Ein Tag in der Hochschule für Künste Bremen* |
@@ -42,27 +42,27 @@
 |             | Installation, Permant Exhibition, *Level Green*, *VW Autostadt Konzernforum*, Wolfsburg|
 |             | **[Schau Mal: Die Ladestrasse Entdecken](https://web.archive.org/web/20150812070745/http://www.the-product.org/schau-mal-die-ladestrasse-entdecken)** |
 |             | Temporary Exhibition, *Deutsches Technikmuseum Berlin* |
-| 2008        | **[Centralspace](http://www.artcom.de/projekte/projekt/detail/spheres)** |
+| 2008        | **[Spheres](https://artcom.de/?project=spheres)** ( aka *Centralspace* ) |
 |             | Installation, Permanent Exhibition, *BMW Museum*, München |
 |             | **[Tennisfreunde Berliin e.V.](https://web.archive.org/web/20150812070745/http://www.the-product.org/tennisfreunde-berliin)** |
 |             | Performance in the streets of Vilnius, Lithuania |
 | 2007        | Performance, *Rodeo Club*, Berlin |
 |             | **Tree of Life** |
 |             | Exhibition, *Museum für Naturkunde*, Berlin |
-| 2006        | **[Heimat und Exil](http://www.artcom.de/projekte/projekt/detail/heimat-und-exil)** |
+| 2006        | **[Heimat und Exil](https://artcom.de/?project=heimat-und-exil)** |
 |             | Exhibition, *Jüdisches Museum Berlin* |
 |             | Exhibition, *Haus der Geschichte*, Bonn |
 |             | Exhibition, *Zeitgeschichtlichen Forum*, Leipzig |
-|             | **[The Settlement Exhibition](http://www.artcom.de/projekte/projekt/detail/reykjavik-871-2)** |
+|             | **[The Settlement Exhibition](https://artcom.de/?project=reykjavik-871-2)** |
 |             | Permanent Exhibition, *City Museum Reykjavik*, Island |
-|             | **[documenta mobil](http://www.artcom.de/projekte/projekt/detail/documenta-mobil)** |
+|             | **[documenta mobil](https://artcom.de/?project=documenta-mobil)** |
 |             | Exhibition, *documenta Archiv*, Kassel |
 |             | **[The Science of Aliens](http://dennisppaul.de/the-science-of-aliens)** |
 |             | Exhibition, *Thinktank*, Birmingham, UK |
 |             | Exhibition, *Cité des Sciences et de l’Industrie*, Paris, Frankreich |
 |             | Exhibition, *Museum of Science*, Miami, USA |
 | 2005        | Exhibition, *Science Museum London*, UK |
-|             | **[Das neue Österreich](http://www.artcom.de/projekte/projekt/detail/das-neue-oesterreich)** |
+|             | **[Das neue Österreich](https://artcom.de/?project=das-neue-oesterreich)** |
 |             | Exhibition, *Schloss Belvedere*, Vienna, Austria | 
 | 2004        | **[Simthing](http://dennisppaul.de/simthing)** |
 |             | Exhibition, *Ars Electronica Festival*, Linz, Austria |
@@ -70,7 +70,7 @@
 |             | **[Floating.Numbers](http://dennisppaul.de/floating-numbers)** |
 |             | Exhibition, *National Museum of Art*, Taichung, Taiwan|
 |             | Exhibition, *Jüdisches Museum Berlin* |
-| 2003        | **[Segelanweisung](http://www.artcom.de/projekte/projekt/detail/die-segelanweisung)** |
+| 2003        | **[Segelanweisung](https://web.archive.org/web/20121107151826/http://www.artcom.de/projekte/projekt/detail/die-segelanweisung/)** |
 |             | Permanent Exhibition, *Deutsches Technikmuseum Berlin* |
 
 ## Selected Awards
@@ -80,22 +80,22 @@
 |             | Annual Multimedia Award Gold |
 |             | **[Die Pendel](http://dennisppaul.de/die-pendel)** |
 |             | iF communication design award |
-| 2009        | **[Centralspace](http://www.artcom.de/projekte/projekt/detail/spheres)** |
+| 2009        | **[Spheres](https://artcom.de/?project=spheres)** ( aka *Centralspace* ) |
 |             | Cannes Lion, Gold in Environmental Design |
 |             | Clio Awards, Silver |
 | 2008        | **Copaxone** |
 |             | D&AD Annual, Book Entry |
-| 2007        | **[Das neue Österreich](http://www.artcom.de/projekte/projekt/detail/das-neue-oesterreich)** |
+| 2007        | **[Das neue Österreich](https://artcom.de/?project=das-neue-oesterreich)** |
 |             | Annual Multimedia Wettbewerb |
 |             | **[The Science of Aliens](http://dennisppaul.de/the-science-of-aliens)** |
 |             | Annual Multimedia Wettbewerb |
 | 2006        | Art Directors Club Germany, Silber |
-|             | **[Das neue Österreich](http://www.artcom.de/projekte/projekt/detail/das-neue-oesterreich)** |
+|             | **[Das neue Österreich](https://artcom.de/?project=das-neue-oesterreich)** |
 |             | iF communication design award, Gold |
 |             | red dot design award |
 |             | Art Directors Club Germany, Bronze |
 |             | Deutscher Multimedia Award, Shortlist |
-|             | **[documenta mobil](http://www.artcom.de/projekte/projekt/detail/documenta-mobil)** |
+|             | **[documenta mobil](https://artcom.de/?project=documenta-mobil)** |
 |             | Deutscher Multimedia Award |
 |             | Art Directors Club Germany, Bronze |
 |             | Annual Multimedia Wettbewerb |
@@ -118,9 +118,9 @@
 
 | ----------- | ----------- |
 | 2014        | **Interaktion + Raum** |
-|             | at [Resonate 2014](http://resonate.io/2014/), Belgrade, Serbia |
+|             | at [Resonate 2014](https://web.archive.org/web/20150924001829/http://resonate.io/2014/), Belgrade, Serbia |
 | 2013        | **New Aesthetic of Data Visualization** |
-|             | at [Big Data Viz](http://bigdataviz.dk/), Copenhagen, Denmark |
+|             | at [Big Data Viz](https://web.archive.org/web/20130416082834/http://bigdataviz.dk/), Copenhagen, Denmark |
 | 2012        | **Halbdinge** |
 |             | at [Design Interaktiver Medien](http://www.md.uni-wuppertal.de/profil/ba_interaktiv) Program, Universität Wuppertal |
 |             | at [Rauchwolken und Luftschlösser. Temporary Räume](https://web.archive.org/web/20160110000251/http://rauchwolkenundluftschloesser.de/symposium), Bremen |

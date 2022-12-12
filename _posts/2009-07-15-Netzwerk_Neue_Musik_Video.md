@@ -3,6 +3,7 @@ layout: post
 title:  "Netzwerk Neue Musik Video"
 date:   2009-07-15 00:00:00 +0100
 featured: No
+permalink: netzwerk-neue-musik-video
 ---
 
 ![](/assets/2009-07-15-Netzwerk_Neue_Musik_Video/nnm-00522.jpg)

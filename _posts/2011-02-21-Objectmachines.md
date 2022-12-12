@@ -3,6 +3,7 @@ layout: post
 title:  "Objectmachines"
 date:   2011-02-21 00:00:00 +0100
 featured: No
+permalink: objectmachines
 ---
 
 ![](/assets/2011-02-21-Objectmachines/object0009-1217252494974.jpg)
