@@ -40,7 +40,7 @@ A translator and controller module transforms the measured distance values into 
 
 ![NMI-002-aiftsoet-sim](/assets/2012-06-23-NMI-002-aiftsoet-sim.jpg)
 
-A web-based <a href="https://dennisppaul.de/p5/nmi-002/">simulator</a> of the instrument.
+A web-based <a href="http://p5.dennisppaul.de/nmi-002">simulator</a> of the instrument.
 
 ![NMI-002-smr-prototype](/assets/2012-06-23-NMI-002-smr-prototype.jpg)
 
