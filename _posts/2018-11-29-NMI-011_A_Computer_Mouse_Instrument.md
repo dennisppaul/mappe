@@ -4,6 +4,9 @@ title:  "NMI-011 A Computer Mouse Instrument"
 date:   2018-11-29 00:00:00 +0100
 featured: Yes
 permalink: a-computer-mouse-instrument
+redirect_from:
+  - /nmi-011
+  - /nmi-011-a-computer-mouse-instrument
 ---
 
 ![NMI-011-front](/assets/2018-11-29-NMI-011-front.jpg)

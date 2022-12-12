@@ -4,6 +4,9 @@ title:  "NMI-010 A Computer Keyboard Instrument"
 date:   2017-09-20 00:00:00 +0100
 featured: Yes
 permalink: a-computer-keyboard-instrument
+redirect_from:
+  - /nmi-010
+  - /nmi-010-a-computer-keyboard-instrument
 ---
 
 ![NMI-010-front](/assets/2017-09-20-NMI-010-front-640×480.jpg)
