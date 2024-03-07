@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /curriculum-vitae/
 ---
 
-![dennis p paul portrait](/assets/portrait-dennisppaul.small.neu.jpg)
+![dennis p paul portrait](/assets/portrait-dennisppaul.small.neu.jpg){: style="max-width: 50%;" }
 
 {% include dennisppaul--curriculum_vitae--Curriculum_Vitae_TXT_EN.md %}
 

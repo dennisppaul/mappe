@@ -22,4 +22,4 @@ This project is developed in collaboration with [Jacob Remin](https://www.jacobr
 
 Learn more about the project in the [Klangstrom for Arduino Documentation](https://klangstrom-for-arduino.dennisppaul.de) or by watching [Klangstrom Videos](https://www.youtube.com/playlist?list=PLXJNr6N-Bu4NeoNwKa9-DVlPSJbEKzRIH).
 
-![KLST_ICON](/assets/2022-02-27-KLST-app-icon.png)
+![KLST_ICON](/assets/2022-02-27-KLST-app-icon.png){: style="width: 128px;" }

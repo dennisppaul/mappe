@@ -8,7 +8,7 @@ permalink: infrastructure
 
 ![Infrastructure](/assets/2020-11-11-infrastructure.png)
 
-```
+<pre style="background-color: #202020; font-size: 12px; line-height: 14px;"><code style="color: #FFF; background-color: #202020; font-size: 12px; line-height: 12px;">
 INFRASTRUCTURE AS ART/DESIGN
 
 - INFRASTRUCTURE THRIVES ON POTENTIALS
@@ -23,4 +23,5 @@ INFRASTRUCTURE AS ART/DESIGN
 - INFRASTRUCTURE IS NOT CONFINED TO WIKIPEDIA’S DESCRIPTION OF *INFRASTRUCTURE*
 - INFRASTRUCTURE LURKS BELOW AND HOVERS ABOVE AT THE SAME TIME
 - INFRASTRUCTURE IS THE *NATIVE MATERIAL UNDERNEATH A CONSTRUCTED PAVEMENT*
-```
+
+</code></pre>

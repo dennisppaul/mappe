@@ -29,7 +29,7 @@ body {
   min-height: 100vh;
   margin: 2 * $base-line-height * $base-font-size;
   text-align: left;
-  max-width: 640px;
+//   max-width: 800px;
 }
 
 
@@ -59,6 +59,7 @@ main {
  * Images
  */
 img {
+  width: 800px;
   max-width: 100%;
   vertical-align: middle;
 //   margin-bottom: $base-line-height * $base-font-size;
